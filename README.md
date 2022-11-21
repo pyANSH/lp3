@@ -7,3 +7,5 @@ email classification : https://raw.githubusercontent.com/pyANSH/lp3/main/dataset
 sample sales dataset : https://raw.githubusercontent.com/pyANSH/lp3/main/dataset/sales_data_sample.csv
 
 diabeties - https://raw.githubusercontent.com/pyANSH/lp3/main/dataset/diabetes.csv
+
+bank - https://raw.githubusercontent.com/pyANSH/lp3/main/dataset/Churn_Modelling.csv
